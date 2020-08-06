@@ -1,0 +1,19 @@
+body {
+    background-color:#eaf6fc;
+}
+/* To get the plain white horizontal line
+ hr {
+    background-color: white;
+    border-style: none;
+    height: 1px;
+} */
+hr {
+    border-top-color: grey;
+    border-style: dotted none none none;
+    border-top-width: thick;
+    width: 10%;
+} 
+
+h1, h3 {
+    color: #66bfbf;
+}
